@@ -43,12 +43,9 @@ Roomies connects people looking for roommates with house owners listing properti
 |---|---|
 | Framework | Flutter (Dart) |
 | State Management | Provider |
-| Authentication | Firebase Auth (Email/Password) |
+| Authentication | Firebase Auth |
 | Database | Cloud Firestore |
-| File Storage | Firebase Storage |
-| UI Components | `swipable_stack`, `flutter_chat_ui`, `sliding_up_panel`, `animations` |
-| Fonts | Google Fonts (Lato), custom (BebasNeue, Shink) |
-| Local Storage | `shared_preferences` |
+| Storage | Firebase Storage |
 
 ---
 
