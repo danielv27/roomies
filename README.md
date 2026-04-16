@@ -27,8 +27,13 @@ Roomies connects people looking for roommates with house owners listing properti
 ---
 
 ## Screenshots
+<img width="120" alt="image" src="https://github.com/user-attachments/assets/217abe45-fb15-4e5d-95d2-607fcf4b603a" />
+<img width="120" alt="image" src="https://github.com/user-attachments/assets/9bc143c7-1706-4f82-b2d9-592f6382cf4b" />
+<img width="120" alt="image" src="https://github.com/user-attachments/assets/e4e73354-0863-43d1-9a09-645e77659f70" />
+<img width="120" height="1852" alt="image" src="https://github.com/user-attachments/assets/5fa0c848-5d31-4b13-98f9-ab2b61c81629" />
+<img width="120" alt="image" src="https://github.com/user-attachments/assets/c60cdaf8-f1af-4803-96f4-fdd887814a31" />
+<img width="120" alt="image" src="https://github.com/user-attachments/assets/be354840-f15e-4ba6-949b-9e9f0b41691c" />
 
-> _Add your screenshots here_
 
 ---
 
