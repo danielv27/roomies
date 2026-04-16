@@ -117,27 +117,6 @@ flutter run
 
 ---
 
-## Firestore Data Model
-
-```
-users/
-└── {userId}/
-    ├── name, email, birthdate, ...       # Core fields
-    ├── personal_profile/                 # Renter: budget, work, preferences
-    ├── house_profile/                    # Owner: property details
-    ├── profile_images[]                  # Array of Storage URLs
-    ├── encounters/                       # Swipe history
-    └── messages/                        # Conversations
-```
-
----
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
-
----
-
 ## License
 
-[MIT](LICENSE)
+MIT
